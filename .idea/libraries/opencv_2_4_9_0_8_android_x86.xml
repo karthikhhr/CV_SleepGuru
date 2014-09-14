@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="opencv-2.4.9-0.8-android-x86">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EyeTrackSample_updated/libs/opencv-2.4.9-0.8-android-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/EyeTrackSample_updated/libs/opencv-2.4.9-0.8-android-x86.jar!/" recursive="false" />
+  </library>
+</component>
